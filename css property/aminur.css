@@ -1,0 +1,11 @@
+
+#header{background:black;color:white;padding:20px;text-align:center;}
+.list{}
+.content{width:480px; float:right;}
+.footer{background:black;color:white;font-size:14px;text-align:center;    margin:0px;
+    padding:20px;;}
+.main{width:700px;margin:auto;}
+#header h1{color:orange;font-family:arial;}
+.list{width:200px;border:1px solid black; float:left; height:250px;}
+.block2{overflow:hidden;}
+.content h3{font-family:fantasy;}

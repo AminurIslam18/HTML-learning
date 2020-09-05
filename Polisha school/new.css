@@ -1,0 +1,106 @@
+*{margin:0;padding:0;}
+
+body{font-font-family:verdana;
+font-size:12px;line-height:18px;
+color:#666666;}
+
+.template{width:1100px;margin:0 auto;} 
+
+.headersection{background:#7cccc0;height:80px;}
+
+.headerleft{width:300px;float:left;text-align:center;margin-top:20px;margin-left:20px;}
+.headerleft h2{font-family:Georgia;font-size:27px;    color: #111152;}
+.headerleft p{color: #1b10e4;font-size:15px;margin-top:10px;}
+
+
+.mainmenu{float:right;width:700px;margin-right:20px;margin-top:15px;}
+.mainmenu ul{list-style:none;margin:0;padding:0;}
+.mainmenu ul li{float:left;display:block;}
+.mainmenu ul li a{color: #410bef;display:block;text-decoration:none;padding:7px;margin:3px;font-size:16px;}
+.mainmenu ul li a:hover{background:black;color:white;}
+.mainmenu ul li a span{font-family:arial;color:black;display:block;font-size:12px;}
+#active{border-top:2px solid black;color:black;font-weight:bold;}
+#active:hover{color:red;cursor:pointer;}
+
+.bannersection{    background: #237154;height:300px;}
+
+.bannerleft{width:550px;margin-left:20px;float:left;}
+.bannerleft h1{font-family:georgia;font-size:40px;color:red;margin-top:20px;line-height:50px;}
+.bannerleft p{font-family:verdana;font-size:20px;color:#c3c3cb;}
+.bannerleft img {
+    /* font-family: georgia; */
+    /* font-size: 37px; */
+    /* color: red; */
+    height: 120px;
+    width: 176px;
+    margin-top: 11px;
+    /* line-height: 44px; */
+    margin-left: 35px;
+    margin-bottom: 0px;
+}
+
+
+.bannerright{width:500px;margin-left:20px;float:right;}
+.bannerright img{width: 480px;
+    height: 278px;
+	margin: 10px;
+	border: 2px solid #3cc9da;
+}
+
+
+.contentsection-clear{    background: #237154;}
+.maincontent{width:1000px;height:400px;background:#7cccc0;margin:0 auto;}
+.samearticle{    width: 300px;
+    float: left;
+    margin: 0 auto;
+    margin-left: 29px;
+    margin-top: 37px;
+}
+.samearticle img{    width: 230px;
+    height: 220px;}
+	
+	
+.footer-clear{height:230px;background:#237154;}
+.contactsection {
+    width: 300px;
+    padding: 18px;
+    float: left;
+    background: #237154;
+    color: #affef6;
+    padding-left: 58px;
+
+padding-left: 58px;}
+
+.contactsection h2{}
+.contactsection p{}
+
+
+
+
+
+.postsection{    width: 684px;
+    float: right;
+    background: #237154;
+    padding: 20px;
+    color: #bacaf4;
+}
+.samepost{width:200px;float:left;}
+.samepost h2{padding:5px;}
+.samepost p{padding:5px;}
+.subscribe{width:500px;font-weight:bold;font-size:20px;display:block;}
+
+.black{background:black;color:white;margin:0 auto;}
+#center{text-align:center;}
+.big{width:300px;height:20px;}
+#midle{width:40px;height:25px;}
+
+
+
+
+
+
+
+
+
+
+
